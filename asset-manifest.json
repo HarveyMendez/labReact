@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/labReact/static/css/main.44b773d5.css",
+    "main.js": "/labReact/static/js/main.1f88c345.js",
+    "static/js/787.ce5141df.chunk.js": "/labReact/static/js/787.ce5141df.chunk.js",
+    "static/media/rick-morty.png": "/labReact/static/media/rick-morty.ed9fa0be01b38da56af4.png",
+    "index.html": "/labReact/index.html",
+    "main.44b773d5.css.map": "/labReact/static/css/main.44b773d5.css.map",
+    "main.1f88c345.js.map": "/labReact/static/js/main.1f88c345.js.map",
+    "787.ce5141df.chunk.js.map": "/labReact/static/js/787.ce5141df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44b773d5.css",
+    "static/js/main.1f88c345.js"
+  ]
+}
